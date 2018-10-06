@@ -30,38 +30,22 @@ body {
   width: auto;
 }
 
-.box {
-  width: 50%;
-  height: 40%;
-  background-color: red;
-  color: white;
-  display: inline-block;
-  vertical-align: top;
-  position: relative;
-}
 
-.box-content {
-  font-size: 100px;
-}
 
-.box-1 {
-  background-color: #b0c4de;
-}
-
-.box-2 {
-  background-color: #faebd7;
-}
+            #circle {
+      width: 50px;
+      height: 50px;
+      -webkit-border-radius: 25px;
+      -moz-border-radius: 25px;
+      border-radius: 25px;
+      background: red;
+    }
 
 
 
 
-.dot {
-  height: 600px;
-  width: 600px;
-  background-color: #456;
-  border-radius: 50%;
-  display: inline-block;
-}
+
+
 
 
 
